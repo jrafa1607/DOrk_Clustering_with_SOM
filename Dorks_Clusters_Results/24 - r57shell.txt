@@ -1,2 +1,0 @@
-"r57shell 1.4"
-"r57shell"

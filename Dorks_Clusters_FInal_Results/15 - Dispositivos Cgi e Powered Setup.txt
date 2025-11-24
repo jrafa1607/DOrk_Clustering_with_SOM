@@ -1,0 +1,30 @@
+Dork
+ezBOO "Administrator Panel" -cvs
+PHPFreeNews inurl:Admin.php
+"Powered by Xcomic"
+"powered by YellDL"
+"File Upload Manager v1.3" "rename to"
+"Powered by SilverNews"
+filetype:wsdl wsdl
+"Powered by FunkBoard"
+intitle:"CJ Link Out V1"
+"powered by mailgust"
+"Powered by Land Down Under 601"
+"Powered by Gravity Board"
+inurl:cgi.asx?StoreID
+inurl:"plog/register.php"
+filetype:inc inc intext:setcookie
+filetype:mdb inurl:"news/news"
+inurl:"simplenews/admin"
+filetype:cgi inurl:cachemgr.cgi
+filetype:cnf my.cnf -cvs -example
+filetype:lit lit (books|ebooks)
+"powered by my little forum"
+allinurl:forcedownload.php?file=
+inurl:cgi-bin inurl:bigate.cgi
+inurl:changepassword.cgi -cvs
+ext:cgi inurl:ubb6_test.cgi
+inurl:robpoll.cgi filetype:cgi
+link:http://www.toastforums.com/
+inurl:nquser.php filetype:php
+inurl:cartwiz/store/index.asp

@@ -1,0 +1,74 @@
+"PhaserÃƒâ€šÃ‚Â® 740 Color Printer" "printer named: "
+"PhaserÃƒâ€šÃ‚Â® 840 Color Printer" "Current Status" "printer named:"
+intitle:"StrongLoop API Explorer" intext:"Token Not Set"
+intitle:"stingray fts login" | ( login.jsp intitle:StingRay )
+intitle:"Biromsoft WebCam" -4.0 -serial -ask -crack -software
+intext:"MaiLinX Alert (Notify)" -site:networkprinters.com
+intitle:"Live View / - AXIS" | "intext:Select preset position"
+intitle:"Ethernet Network Attached Storage Utility"
+intitle:jdewshlp "Welcome to the Embedded Web Server!"
+intitle:"Dell Laser Printer *" port_0 -johnny.ihackstuff
+intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+inurl:"cgi-bin/dynamic/" inurl:"html" intitle:"Printer Status"
+inurl:login inurl:user inurl:pass -intext:pass -intext:user
+inurl:trafficcams -intext:trafficcams ext:asp OR ext:htm
+intitle:index.of inurl:openwebmail -site:openwebmail.org
+inurl:/voice/advanced/ intitle:Linksys SPA configuration
+intitle:"Summit Management Interface" -georgewbush.org.uk
+ext:dhtml intitle:"document centre|(home)" OR intitle:"xerox"
+intitle:"Network Print Server" filetype:shtm ( u_printjobs )
+intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com
+intitle:"AXIS 240 Camera Server" intext:"server push" -help
+inurl:"/graphs" intext:"Traffic and system resource graphing"
+inurl:ftp inurl:Seagate inurl:Backup inurl:Plus inurl:Drive
+dorks:SiteScope inurl:/SiteScope/cgi/go.exe/SiteScope?page=
+inurl:*/graphs* intitle:"Traffic and system resource graphing"
+intitle:"Network Print Server" filetype:shtm ( inurl:u_server )
+intitle:"Network Print Server" filetype:shtm ( inurl:a_server )
+intitle:"AP Router New Generation" intext:"Status do AP Router"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic
+intitle:"hp laserjet" inurl:SSI/Auth/set_config_deviceinfo.htm
+intitle:"Namenode information" AND inurl:":50070/dfshealth.html"
+intext:"Welcome to Taurus" intitle:"The Taurus Server Appliance"
+intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs )
+intitle:"Setup Home" "You will need * log in before * * change * settings"
+intitle:"Orite IC301" | intitle:"ORITE Audio IP-Camera IC-301" -the -a
+http://www.google.com/search?q=intitle:%22Webview+Logon+Page%22&filter=0
+"please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+inurl:"topPage.cgi" | inurl:"mainFrame.cgi" intext:"Web Image Monitor"
+intitle:"DVR Client" -the -free -pdf -downloads -blog -download -dvrtop
+intitle:"Biromsoft WebCam" --a -the -build -download -v4 -3.01 -numrange:1-10000
+intitle:"Network Print Server" filetype:shtm ( inurl:u_generalhelp )
+intitle:"TANDBERG" "This page requires a frame capable browser!"
+allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 "Network Camera "
+allintitle: Axis 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+intitle:"Skystream Networks Edge Media Router" -securitytracker.com
+intitle:"Middle frame of Videoconference Management System" ext:htm
+intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm
+inurl:"cgi-bin" "No password set!" " There is no password set on this router."
+intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml
+( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+(intext:"MOBOTIX M1" | intext:"MOBOTIX M10") intext:"Open Menu" Shift-Reload
+intitle:"GitBucket" intext:"Recent updated repositories" intext:"Sign In"
+intext:"You may also donate through the Moneybookers account mb@dd-wrt"
+(intitle:(EyeSpyFX|OptiCamFX) "go to camera")|(inurl:servlet/DetectBrowser)
+intext:"you to handle frequent configuration jobs easily and quickly"
+intitle:Cisco "You are using an old browser or have disabled javascript.
+intitle:"Flash Operator Panel" -inurl:sip -intitle:ANNOUNCE -inurl:lists
+(inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" -htm -solutions)
+intext:"The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+intitle:"OfficeConnect Wireless 11g Access Point" "Checking your browser"
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" username password
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where"
+intext:"Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+intext:SOAP 1.1 intext:SOAP 1.2 intext:UPLOAD intext:GET intext:POST inurl:op
+"This page is for configuring Samsung Network Printer" | printerDetails.htm
+intext:"Please enter correct password for Administrator Access. Thank you"
+intitle:"Brother" intext:"View Configuration" intext:"Brother Industries, Ltd."
+intitle:"Residential Gateway Configuration:" intext:"Cable Modem Information."
+intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"
+intitle:iDVR -intitle:"com | net | shop" -inurl:"asp | htm | pdf | html | php | shtml | com | at | cgi | tv"
+intitle:Cisco "You must use version 4 or higher of Netscape Navigator/Communicator"
+intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"

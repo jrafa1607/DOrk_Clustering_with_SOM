@@ -1,7 +1,0 @@
-intitle:m1n1 1.01
-"YaBB SE Dev Team"
-inurl:rpSys.html
-inurl:info.inc.php
-intitle:#k4raeL - sh3LL
-inurl:/proc/self/cwd
-"intitle:t3al shmeh"

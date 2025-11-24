@@ -1,9 +1,0 @@
-"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
-intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
-intitle:osCommerce inurl:admin intext:"Online Catalog" -demo -site:oscommerce.com
-inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com
-"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"
-"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
-inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
-filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana
-allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit

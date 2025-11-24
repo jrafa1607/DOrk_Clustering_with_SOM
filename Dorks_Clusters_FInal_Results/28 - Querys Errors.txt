@@ -1,0 +1,24 @@
+PHP application warnings failing "include_path"
+intitle:"500 Internal Server Error" "server at"
+"Chatologica MetaSearch" "stack tracking:"
+"--- WebView Livescope Http Server Error ---" -git
+"Warning: Division by zero in" "on line" -forum
+"Warning:" "SAFE MODE Restriction in effect."
+"There seems to have been a problem with the"
+"A syntax error has occurred" filetype:ihtml
+"Can't connect to local" intitle:warning
+"Internal Server Error" "server at"
+"You have an error in your SQL syntax near"
+"Invision Power Board Database Error"
+intitle:"the page cannot be found" inetmgr
+"Syntax error in query expression " -the
+"access denied for user" "using password"
+inurl:"index.php?m=content+c=rss+catid=10"
+"Warning: mysql_query()" "invalid query"
+"plugins/wp-db-backup/wp-db-backup.php"
+inurl:/php-errors.log filetype:log
+intitle:"htsearch error" ht://Dig error
+intitle:"Whoops! There was an error."
+warning "error on line" php sablotron
+intitle:Error Page pageWrapper.jsp?
+intitle:"Apache Tomcat" "Error Report"

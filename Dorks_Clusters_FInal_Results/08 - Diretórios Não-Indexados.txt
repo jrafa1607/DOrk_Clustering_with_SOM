@@ -1,0 +1,45 @@
+inurl:/tmp
+"lv_poweredBy"
+index.of.dcim
+Inurl : /list/hdd1
+index.of.winnt
+index of /htdocs
+"index of cgi-bin"
+index.of.secret
+index.of.secure
+"Index of /backup"
+index.of.private
+index of /etc/certs/
+index of /ckeditor
+index of kcfinder/
+"index of" inurl:sym
+index.of.password
+index.of.password
+Index of /.svn
+inurl:/xampp
+Index of / *.ovpn
+"powered by h5ai"
+"m.zippyshare.com/"
+intext:"Index of /.git"
+intext:index of sym
+"index of" / picasa.ini
+index.of.protected
+inurl:"/cgi-bin/CVS/"
+inurl:/cgi-bin/.cgi
+inurl:ojspdemos
+intitle:index.of./.db
+intitle:"index of" "db"
+intitle:CV+index of
+allinurl:/hide_my_wp=
+intitle:"Index of" "DCIM"
+"/var/cache/registry/"
+inurl:/files/contao
+inurl:"/irj/go/km/docs/"
+intitle:"index of" /php4/
+intitle:index.of.?.bak
+intitle:index.of./.sql
+intitle:index.of.?.sql
+intitle:"index of" ".pem"
+intitle:"index of /" ssh
+inurl:"ai1wm-backups"
+intitle:"Index of ftp"

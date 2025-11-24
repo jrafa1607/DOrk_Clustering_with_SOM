@@ -1,2 +1,0 @@
-"you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
-intitle:osCommerce inurl:admin intext:"redistributable under the GNU" -demo -site:oscommerce.com

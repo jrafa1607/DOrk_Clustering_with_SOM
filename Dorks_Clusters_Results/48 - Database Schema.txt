@@ -1,4 +1,0 @@
-intext:VIEWS · Server: - Table: SCHEMA_PRIVILEGES · Browse · Structure · SQL · Search · Export
-intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces
-intext:VIEWS · Server: - Database: information_schema · Browse · Structure · SQL · Search · Export
-Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml

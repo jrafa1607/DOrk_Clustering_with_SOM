@@ -1,0 +1,39 @@
+intitle:"Welcome to IIS 4.0"
+intitle:"error 404" "From RFC 2068 "
+inurl:"WebPortal?bankid"
+"Microsoft-IIS/5.0 server at"
+intitle:"Welcome to 602LAN SUITE *"
+intext:"Powered by Nesta"
+"Red Hat Secure/3.0 server at"
+XAMPP "inurl:xampp/index"
+intitle:"welcome to mono xsp"
+intitle:"IPC@CHIP Infopage"
+HTTP_USER_AGENT=Googlebot
+intitle:"Test Page for Apache"
+inurl:OrganizationChart.cc
+"MaXX/3.1" intitle:index.of
+intitle:"Page rev */*/*" inurl:"admin
+inurl:2506/jana-admin
+intitle:"Resin Default Home Page"
+intitle:"300 multiple choices"
+intext:" - 2019 Cott Systems, Inc."
+"AnWeb/1.42h" intitle:index.of
+"OpenSA/1.0.4" intitle:index.of
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+intitle:Snap.Server inurl:Func=
+"OmniHTTPd/2.10" intitle:index.of
+"About Mac OS Personal Web Sharing"
+intext:"Powered by Typesetter"
+intext:"Welcome to CodeIgniter!"
+"I have been invoked by servletToJSP"
+"Application Blocked!" "Google bot"
+"Netware * Home" inurl:nav.html
+"JRun Web Server" intitle:index.of
+intitle:livezilla "Server Time"
+inurl:/server-status + "Server MPM:"
+inurl:phpinfo.php intext:build 2600
+inurl:readme.md intext:"Laravel"
+"This server is operated by OpenX."
+"Proudly created with Wix.com"
+"Microsoft-IIS/4.0" intitle:index.of
+"Microsoft-IIS/6.0" intitle:index.of

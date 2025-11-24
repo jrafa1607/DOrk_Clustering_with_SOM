@@ -1,3 +1,0 @@
-inurl:app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
-"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread
-"CakeRoutingException" -site:github.com -site:stackoverflow.com -site:cakephp.org"
