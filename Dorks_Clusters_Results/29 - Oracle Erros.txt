@@ -1,0 +1,7 @@
+"ORA-12541: TNS:no listener" intitle:"error occurred"
+"ORA-00933: SQL command not properly ended"
+"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+"ORA-00921: unexpected end of SQL command"
+"ORA-00921: unexpected end of SQL command"
+"ASP.NET_SessionId" "data source="
+"ORA-00936: missing expression"

@@ -1,0 +1,6 @@
+intitle:"TurnKey LAMP" intext:"turnkey lamp release notes" "Apache PHP information"
+( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`user`) VALUES -github
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`password`) VALUES -github
+intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`) VALUES -github

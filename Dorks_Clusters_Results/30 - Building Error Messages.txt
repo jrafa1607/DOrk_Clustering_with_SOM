@@ -1,0 +1,17 @@
+inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+inurl:sitebuilderpictures
+"Warning:" "The script whose uid is"
+inurl:?wp-commentsrss2.php -git
+"Incorrect syntax near" -the
+inurl:sitebuildercontent
+inurl:sitebuilderfiles
+inurl:index of driver.php?id=
+"Incorrect syntax near"
+"mySQL error with query"
+allintext:"fs-admin.php"
+intitle:"Default PLESK Page"
+intitle:"CGIWrap Error"
+filetype:asp + "[ODBC SQL"
+intitle:"404 SC_NOT_FOUND"
+"dispatch=debugger."
+databasetype. Code : 80004005. Error Description :

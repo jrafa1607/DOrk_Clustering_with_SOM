@@ -1,0 +1,5 @@
+filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer
+intitle:"nstview v2.1:: nst.void.ru" | intext:"nsTView v2.1 :: nst.void.ru. Password: Host:"
+intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+inurl:"/tiny_mce/plugins/ajaxfilemanager/ajax_create_folder.php" -github
+intext:"Thehacker - Agd_Scorp - BLaSTER - Cr@zy_King - KinSize - JeXToXiC - s3f4 - rx5"

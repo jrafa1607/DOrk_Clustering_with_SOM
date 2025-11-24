@@ -1,0 +1,18 @@
+ -wizard -pastebin -adult -keywords "To correctly view, please enable it in your browser"
+ -english -help -printing -companies -archive"Warning: this page requires Javascript"
+intext:"Fill out the form below completely to change your password and user name" -edu
+"This is a restricted Access Server" "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+intitle:"Content Management System" "admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+intitle:"RouterOS" intext:"You have connected to a router. Administrative access only."
+inurl:.gov/wp-login.php | inurl:.edu/wp-login.php | inurl:.mil/wp-login.php | inurl:.us/wp-login.php
+ -english -help -printing -companies -archive"To correctly view, please enable it in your browser"
+intitle:"configuration page" intext:"You have connected to a router. Administrative access only."
+intitle:"Login Forum Powered By AnyBoard" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+intitle:"*- HP WBEM Login" "You are being prompted to provide login account information for *"
+intitle: intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+intitle:"Content Management System" "user name" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+intitle:"Content Management System" "password" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+intext:"Icecast Administration Admin Page" intitle:"Icecast Administration Admin Page"
+"This WebUI administration tool requires scripting support" intitle:'Login' -score
+"This WebUI administration tool requires scripting support" intext:'Admin Name:' -score

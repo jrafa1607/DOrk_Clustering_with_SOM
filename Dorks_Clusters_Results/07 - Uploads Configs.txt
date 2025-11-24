@@ -1,0 +1,35 @@
+allintitle:"Index of /Admin/Common" | allintext:"Parent Directory"
+intitle:"Index.Of.Applications (Parallels)" -stackoverflow -quora
+intext:/wp-content/plugins/woocommerce/templates/emails/plain/
+index:"html/js/editor/fckeditor/editor/filemanager/connectors"
+inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder"
+intitle:"webadmin - /*" filetype:php directory filename permission
+intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1
+intitle:upload inurl:upload intext:upload -forum -shop -support -w3c
+"Warning: Installation directory exists at" "Powered by Zen Cart" -demo
+intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder
+inurl:"RootFolder=" Allitems "confidential" | "classified" | "passwords" | username
+inurl:"default.php" intext:"website" "has been successfully installed on the server!"
+intext:"Powered by ViewVC" | intitle:"ViewVC Repository Listing"
+"Welcome to the directory listing of" "NetworkActiv-Web-Server"
+intitle:"album permissions" "Users who can modify photos" "EVERYBODY"
+intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff
+"Powered by Invision Power File Manager" (intitle:"Browsing directory /" )
+intitle:"index of" /content/uploads/ -inurl:/wp-content/uploads/
+intitle:"index of" "Application Data/Microsoft/Credentials"
+allinurl:"wp-content/plugins/wordpress-popup/views/admin/"
+intitle:intranet inurl:intranet +intext:"human resources"
+intitle:"Directory Listing For" "Filename" intext:Tomcat/5.0.28
+intitle:"index.of" | inurl:/filemanager/connectors/ intext:uploadtest.html
+inurl:/fckeditor/editor/plugins/ajaxfilemanager/ajaxfilemanager.php
+Hostinger © 2016. All rights reserved inurl:default.php
+"Powered by Invision Power File Manager" (inurl:login.php)
+intitle:"Index of *" inurl:"my shared folder" size modified
+inurl:"paypal" intitle:"index of" backup | db | access -github
+inurl:install.pl intext:"Reading path paramaters" -edu
+intitle:index.of (inurl:fileadmin | intitle:fileadmin)
+intext:"Powered By: TotalIndex" intitle:"TotalIndex"
+inurl:bc.googleusercontent.com intitle:index of
+intitle:"index of" "/Windows/Recent" | "/Windows/History/"
+intitle:"Directory Listing For" intext:Tomcat -int
+intitle:"index of" "parent directory" "desktop.ini"

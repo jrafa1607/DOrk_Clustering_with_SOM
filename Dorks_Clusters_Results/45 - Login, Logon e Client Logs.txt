@@ -1,0 +1,268 @@
+Login ("Powered by Jetbox One CMS ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢")
+"Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+"Powered by Midmart Messageboard" "Administrator Login"
+"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
+intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+intitle:"PHPhotoalbum - Upload" | inurl:"PHPhotoalbum/upload"
+inurl:"http://cms" | inurl:"https://cms" ("login" | "logon" | "admin") -school
+intitle:("TrackerCam Application Login") -trackercam.com
+inurl:coranto.cgi intitle:Login (Authorized Users Only)
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+intitle:Login intext:"RT is Ãƒâ€šÃ‚Â© Copyright"
+inurl:/Merchant2/admin.mv  -inurl:cheap-malboro.net
+inurl:/Merchant2/admin.mvc  -inurl:cheap-malboro.net
+allinurl:"zimbra/?zinitmode=http" -google -github
+"Log in" "Magento is a trademark of Magento Inc."
+"Joomla! Administration Login" inurl:"/index.php"
+Please-logon "intitle:zarafa webaccess "
+"Login Name" Repository Webtop intitle:login
+Please enter a valid password! inurl:polladmin
+"Web-Based Management" -inurl:johnny.ihackstuff.com
+"Emergisoft web applications are a part of our"
+"Please login with admin pass" -"leak" -sourceforge
+"Please authenticate yourself to continue."
+Admin intitle:"eZ publish administration"
+"4images Administration Control Panel"
+Login ("Powered by Jetstream Ãƒâ€šÃ‚Â© *")
+inurl:citrix inurl:login.asp -site:citrix.com
+inurl:/administrator/index.php?autologin=1
+inurl:Citrix/MetaFrame/default/default.aspx
+inurl:"/module.php/core/loginuserpass.php"
+inurl:"/admin/configuration. php?" Mystore
+inurl:webvpn.html "login" "Please enter your"
+inurl:/modcp/ intext:Moderator+vBulletin
+inurl:photopost/uploadphoto.php -Login
+inurl:default.asp intitle:"WebCommander"
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp)
+inurl:"/sgdadmin/" Secure Global Desktop
+inurl:"/owncloud/index.php" -github -forum
+inurl:"default/login.php" intitle:"kerio"
+inurl:login.php "SquirrelMail version"
+inurl:administrator "welcome to mambo"
+inurl:cgi-bin/ultimatebb.cgi?ubb=login
+inurl:/j_security_check;jsessionid=
+inurl:index.php?app=main intitle:sms
+inurl:/app_dev.php/login "Environment"
+inurl:confixx inurl:login|anmeldung
+inurl:/cgi-bin/sqwebmail?noframes=1
+inurl:Dialin/Conference.aspx
+inurl:/WebInterface/login.html
+inurl:/Remote/logon?ReturnUrl
+inurl:backoffice intitle:login
+inurl:"Citrix/XenApp/auth/login.aspx"
+inurl:"Activex/default.htm" "Demo"
+inurl:/dana-na/auth/welcome.html
+inurl:"calendar.asp?action=login"
+"Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+"SquirrelMail version" "By the SquirrelMail Development Team"
+"Please input password to login" -inurl:johnny.ihackstuff.com
+"Establishing a secure Integrated Lights Out session with"
+"You have requested to access the management functions" -.edu
+"You have requested access to a restricted area of our website. "
+"WebExplorer Server - Login" "Welcome to WebExplorer Server"
+Novell NetWare intext:"netware management portal version"
+intitle:"spaces provided below and click the Log On Button"
+intitle:"oMail-admin Administration - Login" -inurl:omnis.ch
+intitle:"microsoft certificate services" inurl:certsrv
+intitle:"Welcome to your router Configuration Interface"
+inurl:/secure/Dashboard.jspa intitle:"System Dashboard"
+intitle:"Welcome | PRTG Network Monitor" inurl:/index.htm
+intitle:"Workspace Login" intext:"WinOcular WorkSpace"
+intitle:"VMware Management Interface:" inurl:"vmware/en/"
+intitle:"Kurant Corporation StoreSense" filetype:bok
+filetype:asp intitle:" Microsoft Outlook Web Access"
+inurl:"https://blackboard" | inurl:"http://blackboard"
+(intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+inurl:.php|.asp -"Response.Buffer = True" -javascript
+inurl:postfixadmin intitle:"postfix admin" ext:php
+filetype:php login (intitle:phpWebMail|WebMail)
+filetype:cgi inurl:"irc.cgi" | intitle:"CGI:IRC Login"
+allinurl:"/main/auth/profile.php" -github -google
+"Microsoft CRM : Unsupported Browser Version"
+"Welcome to Sitecore" + "License Holder"
+"Powered by Monster Top List" MTL numrange:200-
+allinurl:"owa/auth/logon.aspx" -google -github
+intitle:"welcome to netware *" -site:novell.com
+intitle:"teamspeak server-administration
+intitle:"virtual office" sonicwall domain
+inurl:/helpdesk/staff/index.php?
+inurl:"member.php?action=login"
+inurl:"/jenkins/login" "Page generated"
+inurl:orasso.wwsso_app_admin.ls_login
+inurl:names.nsf?opendatabase
+inurl:"/eyeos/index.php" -github -forum
+inurl:dynamic.php?page=mailbox
+inurl:/dynamic/login-simple.html?
+inurl:"login.php?action=recover"
+inurl:login.do intext:government
+inurl:exchweb/bin/auth/owalogon.asp
+inurl:irc filetype:cgi cgi:irc
+inurl:intranet -intext:intranet
+inurl:typo3/install/index.php?mode=
+inurl:"InfoViewApp/logon.jsp"
+inurl:login/?next=/admin/ -https -stackoverflow.com -github.com
+inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+intitle:"Openbravo" (inurl:"openbravo/security/Login_FS.html" )
+intitle:"Openbravo" (inurl:"openbravo/security/Login_F1.html")
+intitle:"Openbravo" (inurl:"openbravo/security/Login_F0.html")
+intitle:FootPrints Login | inurl:/MRcgi/MRentrancePage.pl
+intitle:"Login to the forums - @www.aimoo.com" inurl:login.cfm?id=
+intext:"Mail admins login here to administrate your domain."
+intitle:Oracle PeopleSoft Sign-in "Oracle" Sign-in "error"
+intitle:"Powered by Winmail Server - Login" & (intext:"Username")
+intitle:"Powered by Winmail Server - Login" & (intext:"Password")
+intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where"
+intitle:"Admin login" "Web Site Administration" "Copyright"
+intitle:Novell intitle:WebAccess "Copyright *-* Novell, Inc"
+intitle:"Login - OpenStack Dashboard" inurl:"dashboard"
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+(intitle:"Please login - Forums powered by WWWThreads")
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+intitle:Remote.Desktop.Web.Connection inurl:tsweb
+intitle:asterisk.management.portal web-access
+inurl:/webedit.* intext:WebEdit Professional -html
+intitle:"Virtual Server Administration System"
+intitle:"remote assessment" OpenAanval Console
+inurl:webgps intitle:"GPS Monitoring System"
+"Powered by DWMail" password intitle:dwmail
+"Powered by UebiMiau" -site:sourceforge.net
+intitle:vood act=index Gateway >Login
+ext:html intext:Airties inurl:login.html
+intitle:ilohamail "Powered by IlohaMail"
+intitle:"please login" "your password is *"
+intitle:plesk inurl:login.php3
+"mailing list memberships reminder"
+"site info for" "Enter Admin Password"
+inurl:"/?pagename=AdministratorLogin"
+inurl:"/?pagename=CustomerLogin"
+inurl:"vsadmin/login" -javascript
+inurl:"vsadmin/admin" -javascript
+inurl:webmail./index.pl "Interface"
+inurl:"utilities/TreeView.asp"
+inurl:inmotionhosting.com:2096/
+(inurl:"wwwthreads/login.pl?Cat=")
+inurl:login filetype:swf swf
+intitle:"Flash Operator Panel" -intitle:ANNOUNCE -inurl:lists
+intitle:"Cisco Integrated Management Controller Login"
+intitle:"Flash Operator Panel" -inurl:asternic -inurl:sip
+(intitle:"SilkyMail by Cyrusoft International, Inc
+intitle:"Plesk Onyx" intext:"Interface language"
+intext:"Please Authenticate" intitle:Peakflow
+intitle:"Login" intext:"Use Web Messaging Lite"
+intitle:"SmarterMail Login" inurl:"/Login.aspx"
+intext:Computer Misuse Act inurl:login.aspx
+intitle:"eXist Database Administration" -demo
+intitle:"Supero Doctor III" -inurl:supermicro
+intitle:"MikroTik RouterOS Managing Webpage"
+intitle:"cascade server" inurl:login.act
+intitle:"Tomcat Server Administration"
+intitle:Ovislink inurl:private/login
+intitle:"cyber recruiter" "User ID"
+intitle:communigate pro entrance
+intitle:open-xchange inurl:login.pl
+intext:"vbulletin" inurl:admincp
+intitle:"phpPgAdmin - Login" Language
+allintitle:"Welcome to the Cyclades"
+filetype:cfg login "LoginServer="
+filetype:php inurl:"webeditor.php"
+allinurl:"exchange/logon.asp"
+inurl:/cgi-bin/MANGA/index.cgi
+inurl:textpattern/index.php
+inurl:"webadmin" filetype:nsf
+inurl:"/siteadmin/index.php"
+inurl:/web/device/login?lang=1
+inurl:/welcome.cgi? | p=no-cert
+inurl:"/wap/LoginPolicy.jsp"
+(inurl:"wwwthreads/login.php")
+inurl:"usysinfo?login=true"
+inurl:"typo3/index.php?u=" -demo
+intitle:"Log In" "Access unsecured content without logging in"
+intitle:".:: Welcome to the Web-Based Configurator::."
+intitle:"Please enter your User ID and Password"
+intitle:"Login - powered by Easy File Sharing Web
+intitle:"Enabling Self-Service Procurement"
+intitle:("TrackerCam Live Video") -trackercam.com
+intitle:"Cisco CallManager User Options Log On"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms
+intitle:Login "Login to pfSense" "Password" "LLC"
+intitle:"InterWorx-CP" "Forgot your password"
+intitle:("Trackercam Remote") -trackercam.com
+intitle:"Admin Login" "admin login" "blogware"
+intitle:"Logon - SAP Web Application Server"
+intitle:Logon OrderCloud ui/logon.aspx
+intitle:"Athens Authentication Point"
+intitle:"VitalQIP IP Management System"
+intitle:"Welcome to QNAP Turbo NAS"
+intitle:"Zimbra Web Client Log In"
+intitle:"Zimbra Web Client Sign In"
+intitle:"Welcome to Mailtraq WebMail"
+intitle:"inc. vpn 3000 concentrator"
+intitle:"ePowerSwitch Login"
+intitle:"vhost" intext:"vHost . 2000-2004"
+Auth inurl:welcome ext:cgi
+allinurl:wps/portal/ login
+inurl:/remote/login?lang=en
+inurl:forgot.do;jsessionid=
+intitle:AP Router New Generation | inurl:/home.asp
+ intitle:"Data Frame - Browser not HTTP 1.1 compatible"
+intitle:"MX Control Console" "If you can't remember"
+intitle:"Helm : The Web Hosting Control System"
+intitle:Sign In inurl:/adfs/ls/?wa=wsignin1.0
+intitle:"Zope Help System" inurl:HelpSys
+intitle:"ColdFusion Administrator Login"
+intitle:"Dell SonicWALL - Authentication"
+intitle:"Dell Remote Access Controller"
+intitle:Admin inurl:login.php
+intitle:"VisNetic WebMail" inurl:"/mail/"
+intitle:"SonicWALL - Authentication"
+intitle:"Employee Intranet Login"
+intitle:"Docutek ERes - Admin Login" -edu
+intext:"Powered by net2ftp"
+intitle:"FirstSpirit - login"
+filetype:pwd intitle:index
+"Login to Usermin" inurl:20000
+intitle:"SHOUTcast Administrator" inurl:admin.cgi
+intitle:"PHP Advanced Transfer" inurl:"login.php"
+intitle:"ISPMan : Unauthorized Access prohibited"
++"Powered by INDEXU" inurl:(browse|top_rated|power
+intitle:"ZyXEL Prestige Router" "Enter password"
+intitle:"WebMail - Login" & (intext:"Username")
+intitle:"WebMail - Login" & (intext:"Password")
+intitle:"OneAccess WCF" Username
+intitle:"Mail - AfterLogic WebMail"
+intitle:Node.List Win32.Version.3.11
+intitle:"D-Link VoIP Router" "Welcome"
+intitle:"ListMail Login" admin -demo
+intitle:"Comrex ACCESS Rack"
+intitle:"Login - OTRS" inurl:pl
+intitle:"Vigor Login Page"
+intitle:"AlternC Desktop"
+intitle:Login * Webmailer
+intitle:"VOOD - Welcome to Vood Residential Gateway >Login"
+inurl:/?skipANDROID=true intext:"Pydio Community"
+intitle:"EXTRANET login" -.edu -.mil -.gov -johnny.ihackstuff
+intitle:ARI "Phone System Administrator"
+intitle:"PHProjekt - login" login password
+intitle:IMP inurl:imp/index.php3
+intitle:"TOPdesk ApplicationServer"
+intitle:"iDevAffiliate - admin" -demo
+"intitle:3300 Integrated Communications Platform" inurl:main.htm
+intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+intitle:"MODX CMF Manager Login"
+intitle:"EXTRANET * - Identification"
+intitle:FRITZ!Box inurl:login.lua
+intitle:"VNC Viewer for Java"
+intitle:"EZPartner" -netpond
+intitle:"VNC viewer for Java"
+intitle:"DVR+Web+Client"
+||Powered by [ClipBucket 2.0.91]
+"powered by CuteNews" "2003..2005 CutePHP"
+intext:"2016 SAP AG. All rights reserved." intitle:"Logon"
+intitle:IBM Lotus iNotes Login
+intitle:"SFXAdmin - sfx_global"
+intitle:"SFXAdmin - sfx_local"
+intitle:"SFXAdmin - sfx_test"
+inurl:"php121login.php"
+intitle:"ASUS Login" "SIGN IN"
+intext:"2008" intext:"OpenERP SA" intitle:"Login"
