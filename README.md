@@ -1,6 +1,9 @@
 # DOrk_Clustering_with_SOM
 > **Google Hacking Dorks Clustering with Self-Organizing Maps after apply NLP and ASCII Conversion** is an innovative approach that uses the **Self-Organizing Map (SOM)**, an unsupervised artificial neural network, to analyze, cluster, and visualize **Google Hacking Dorks**. The main goal is to transform the set of *dorks* – which are complex search queries used for **OSINT ( Open Source Intelligence )** and **Penetration Testing ( Pentest )** – into a **2D topological map**, where *dorks* with similar semantic and structural characteristics are positioned closely together. This enables security analysts and investigators to discover **vulnerability patterns** and **target groups** in a visual and intuitive way.
 
+> **Note on Map Generation**: The resulting Self-Organizing Maps (SOM) used for the visual analysis and clustering of *dorks* were generated using the **Viscovery SOMine** software suite.
+> Viscovery SOMine is a specialized, advanced data mining system based on SOM, known for its intuitive visual data representation, dedicated workflows, and robust capability to uncover high-value insights and patterns from complex, high-dimensional datasets. 
+
 ---
 
 ### ✨ Key Features and Differentiating Factors
