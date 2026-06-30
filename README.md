@@ -25,7 +25,7 @@ The visual maps and clusters were generated using the **Viscovery® SOMine** sui
 ---
 
 ## 📚 Academic Publications & Research
-This repository is the culmination of extensive academic research on the application of neural networks in cybersecurity.
+This repository is the culmination of extensive academic research on the application of ANN and PLN in cybersecurity.
 
 ### Master’s Thesis
 * [**OSINT Approach with SOM and NLP for Automatic Execution of Dorks**](https://bibliotecatede.uninove.br/handle/tede/2586)
