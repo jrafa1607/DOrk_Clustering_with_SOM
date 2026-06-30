@@ -1,7 +1,0 @@
-Frequency Picture 
-The Frequency picture indicates how many data records from the source data set have matched each node. Nodes that have not matched any data record are white. Nodes that have matched at least one data record show a shade of red indicating the number of matches. The darker the red of the node the higher is the frequency of matches. The color scale in the lower part of the window indicates the relation between colors and frequency. The map is well trained if the frequencies are distributed evenly. 
-
-Quantization Error Picture 
-The picture shows the quantization error for each node. The quantization error is a measure of how good the data vectors from the source data set are matched by a specific node. It is computed by the average of the squared distance of all data records associated with a node. Averaging over the quantization errors of all nodes yields the quantization error of the map. 
-The quantization error is necessarily zero (white) at nodes where no data records have matched (i.e. where the frequency is zero). Non-zero quantization errors are displayed in shades of green. The color scale in the lower part of the window helps to match colors against error values. The darker the color, the higher is the error. 
-The map is well trained if the quantization errors are very small and distributed evenly over the map. 
