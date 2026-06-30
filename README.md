@@ -1,21 +1,48 @@
-# DOrk_Clustering_with_SOM
-> **Google Hacking Dorks Clustering with Self-Organizing Maps after apply NLP and ASCII Conversion** is an innovative approach that uses the **Self-Organizing Map (SOM)**, an unsupervised artificial neural network, to analyze, cluster, and visualize **Google Hacking Dorks**. The main goal is to transform the set of *dorks* – which are complex search queries used for **OSINT ( Open Source Intelligence )** and **Penetration Testing ( Pentest )** – into a **2D topological map**, where *dorks* with similar semantic and structural characteristics are positioned closely together. This enables security analysts and investigators to discover **vulnerability patterns** and **target groups** in a visual and intuitive way.
+# DOrk Clustering with Self-Organizing Maps (SOM)
 
-> **About Map Generation**: The resulting Self-Organizing Maps (SOM) used for the visual analysis and clustering of *dorks* were generated using the **Viscovery SOMine** software suite.
-> Viscovery SOMine is a specialized, advanced data mining system based on SOM, known for its intuitive visual data representation, dedicated workflows, and robust capability to uncover high-value insights and patterns from complex, high-dimensional datasets. 
+[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)]() 
+[![Research-Oriented](https://img.shields.io/badge/Domain-OSINT%20%7C%20Cybersecurity-blue)]()
 
----
+**Google Hacking Dorks Clustering with Self-Organizing Maps (SOM)** is an innovative research project that bridges the gap between **Natural Language Processing (NLP)** and unsupervised machine learning to revolutionize **OSINT (Open Source Intelligence)** and **Penetration Testing**. 
 
-### ✨ Key Features and Differentiating Factors
-
-* **Topological Dork Clustering**: Utilizes SOM to automatically group *dorks* based on their structural and functional similarity (operators, keywords, file types, etc.) on a visual map.
-* **Intuitive Pattern Visualization**: The SOM's *Component Plane* and *U-Matrix* reveal *clusters* and boundaries between groups of *dorks*, making it easier to identify new attack vectors or sensitive information.
-* **Accelerated Threat Analysis**: Map visualization reduces the time required to understand the distribution and focus of large *dork* databases.
+By applying NLP preprocessing and ASCII conversion, this approach maps complex search queries (Dorks) onto a **2D topological space**. This allows security analysts to visualize semantic relationships, identify vulnerability patterns, and discover hidden target groups within large Dork databases.
 
 ---
 
-### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
+## 🚀 Key Capabilities
 
-> **Legal Notice and Terms of Use**
->
-> This repository contains the source code and documentation for the Approach **DOrk_Clustering_with_SOM**, which constitutes the **Intellectual Property (IP)** of João Rafael Gonçalves Evangelista. All rights reserved.
+* **Topological Dork Clustering**: Uses SOMs to automatically group Dorks by structural and functional similarity (operators, keywords, etc.).
+* **Intuitive Pattern Recognition**: Through *Component Planes* and *U-Matrices*, complex datasets are rendered into visual clusters.
+* **Accelerated Threat Intelligence**: Dramatically reduces the cognitive load and time required to analyze large-scale Dork databases.
+
+---
+
+## 📊 Map Generation Methodology
+The visual maps and clusters were generated using the **Viscovery® SOMine** suite. This data mining environment is optimized for high-dimensional data, providing:
+* **Dedicated Workflows**: Precision-tuned for high-value insight extraction.
+* **Robust Visualization**: Superior capability for mapping non-linear relationships in complex query structures.
+
+---
+
+## 📚 Academic Publications & Research
+This repository is the culmination of extensive academic research on the application of neural networks in cybersecurity.
+
+### Master’s Thesis
+* [**OSINT Approach with SOM and NLP for Automatic Execution of Dorks**](https://bibliotecatede.uninove.br/handle/tede/2586)
+
+### Selected Papers
+* [Abordagem de Inteligencia de Fontes Abertas com Mapas Auto-Organizaveis de Kohonen e Processamento de Linguagem Natural](https://www.researchgate.net/publication/374868011_Abordagem_de_Inteligencia_de_Fontes_Abertas_com_Mapas_Auto-Organizaveis_De_Kohonen_e_Processamento_de_Linguagem_Natural_para_Execucao_Automatica_de_Dorks)
+* [Classification of Web History Tools Through Web Analysis](https://www.researchgate.net/publication/334365187_Classification_of_Web_History_Tools_Through_Web_Analysis)
+* [Enriquecimento de Base de Dorks Com Processamento de Linguagem Natural](https://www.researchgate.net/publication/340524149_Enriquecimento_de_Base_de_Dorks_Com_Processamento_de_Linguagem_Natural)
+* [Google Hacking Database Attributes Enrichment and Conversion to Enable the Application of Machine Learning Techniques](https://www.researchgate.net/publication/375630112_Google_Hacking_Database_Attributes_Enrichment_and_Conversion_to_Enable_the_Application_of_Machine_Learning_Techniques)
+* [Systematic Literature Review to Investigate the Application of Open Source Intelligence (OSINT) with Artificial Intelligence](https://www.researchgate.net/publication/341229263_Systematic_Literature_Review_to_Investigate_the_Application_of_Open_Source_Intelligence_OSINT_with_Artificial_Intelligence)
+
+
+---
+
+## ⚖️ Intellectual Property (IP) Notice
+All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
+
+**Copyright © 2026 João Rafael Gonçalves Evangelista.**
+
+---
