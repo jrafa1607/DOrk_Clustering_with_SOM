@@ -37,7 +37,6 @@ This repository is the culmination of extensive academic research on the applica
 * [GHDB Attributes Enrichment and Conversion to Enable the Application of Machine Learning Techniques](https://www.researchgate.net/publication/375630112_Google_Hacking_Database_Attributes_Enrichment_and_Conversion_to_Enable_the_Application_of_Machine_Learning_Techniques)
 * [Systematic Literature Review to Investigate the Application of Open Source Intelligence (OSINT) with Artificial Intelligence](https://www.researchgate.net/publication/341229263_Systematic_Literature_Review_to_Investigate_the_Application_of_Open_Source_Intelligence_OSINT_with_Artificial_Intelligence)
 
-
 ---
 
 ## ⚖️ Intellectual Property (IP) Notice
