@@ -11,9 +11,9 @@ By applying NLP preprocessing and ASCII conversion, this approach maps complex s
 
 ## 🚀 Key Capabilities
 
-* **Topological Dork Clustering**: Uses SOMs to automatically group Dorks by structural and functional similarity (operators, keywords, etc.).
-* **Intuitive Pattern Recognition**: Through *Component Planes* and *U-Matrices*, complex datasets are rendered into visual clusters.
-* **Accelerated Threat Intelligence**: Dramatically reduces the cognitive load and time required to analyze large-scale Dork databases.
+* **Dork Clustering**: Uses SOMs to automatically group Dorks by structural and functional similarity.
+* **Pattern Recognition**: Through *Component Planes* and *U-Matrices*, complex datasets are rendered into visual clusters.
+* **Threat Intelligence**: Dramatically reduces the cognitive load and time required to analyze large-scale Dork databases.
 
 ---
 
